@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Amit Shukla</h1>
 <h3 align="center">A passionate backend developer and machine learning enthusiast. I am currently a Research Fellow at IIIT Hyderabad</h3>
-<img align="right alt="Coding" width="400" src="https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media">
+<img align="right alt="Coding" width="400" src="[https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media](https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitshukla2808&label=Profile%20views&color=0e75b6&style=flat" alt="amitshukla2808" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitshukla2808" alt="amitshukla2808" /></a> </p>
