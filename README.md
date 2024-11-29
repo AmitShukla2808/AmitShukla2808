@@ -1,3 +1,4 @@
+![hero12](https://github.com/user-attachments/assets/d4ddd58e-7631-40eb-b2a6-26ddcca65756)
 
 <h1 align="center">Hi 👋, I'm Amit Shukla</h1>
 <h3 align="center">A passionate backend developer and machine learning enthusiast. I am currently a Research Fellow at IIIT Hyderabad</h3>
