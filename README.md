@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://amitshukla2808.github.io)
 
 <h1 align="center">Hi 👋, I'm Amit Shukla</h1>
-<h3 align="center">A passionate backend developer and machine learning enthusiast. I am currently a Research Fellow at IIIT Hyderabad</h3>
+<h3 align="center">A passionate backend developer and machine learning enthusiast. I am currently a Masters student at IIIT Hyderabad in CSE</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
